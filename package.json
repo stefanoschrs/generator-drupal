@@ -1,0 +1,16 @@
+{
+  "author": "Stefanos Chrs <stefanoschrs@hotmail.com> (http://www.stfnstudios.com)",
+  "license": "MIT",
+  "name": "generator-drupal",
+  "version": "0.0.1",
+  "description": "Drupal Automations",
+  "bin": {
+    "drupal": "bin/generator-drupal.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^0.9.0"
+  }
+}
